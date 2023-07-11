@@ -3,6 +3,11 @@
 </p>
 
 <h1>Active Directory Deployed in the Cloud (Azure)</h1>
+
+Active Directory (AD) is a directory service developed by Microsoft that is used to manage and organize resources in a network environment. It is a centralized database that stores information about users, computers, groups, and other network objects.
+
+AD provides a hierarchical structure that allows administrators to define and manage permissions, access controls, and policies for network resources. It enables organizations to establish a single sign-on (SSO) environment, where users can use a single set of credentials to access various network resources.
+
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
